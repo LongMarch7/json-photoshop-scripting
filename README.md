@@ -1,8 +1,8 @@
-> This repository is an adaptation of the main contents of the site [Tonton Pixel](http://www.tonton-pixel.com/), introducing an alternative way of scripting Photoshop in JavaScript, based on JSON.
-
 ![JSON Photoshop Scripting icon](images/json-ps-128.png)
 
 # JSON Photoshop Scripting
+
+Alternative way of scripting Photoshop in JavaScript, based on JSON.
 
 - [JSON Project Introduction](JSON-Project-Introduction)
 
